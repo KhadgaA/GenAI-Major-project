@@ -1,0 +1,8 @@
+[{
+  "research_synthesis": "The research focuses on the application of Generative Adversarial Networks (GANs) for image watermarking, a technique to protect intellectual property rights in the field of generative models. The primary method involves embedding watermarks into the trigger sets of the network, which is referred to as black-box watermarking. This approach is demonstrated by Adi et al. (2018) who used abstract color images and random tags as triggers to embed watermarks. Chen et al. (2019) further improved the watermarking capacity by employing a label-to-bit transformation model, building upon the concept of zero-bit watermarking.",
+  "key_insights": [
+    "Black-box watermarking is a technique where watermarks are embedded into the trigger sets of GANs.",
+    "Abstract color images and random tags can be used as triggers for watermark embedding.",
+    "Zero-bit watermarking, combined with label-to-bit transformation, enhances the capacity of the embedded watermark."
+  ]
+}]
